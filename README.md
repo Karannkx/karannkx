@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">A Penetration Tester || Bug Hunter</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/IDdT.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Karannkx/Karannkx/blob/main/d2ddd6e7d724b250442cc6b541d08a4e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karannkx&label=Profile%20views&color=0e75b6&style=flat" alt="karannkx" /> </p>
 # 💫 About Me:
 - 🌱 I’m Currently Learning **Bug Hunting**<br>👨‍💻 All of My Projects Are Available at :  <a href="https://docs.google.com/document/d/1B1rXl_D6y-ImZLDIEZifECy66TXnoFEq7YjIcGWPr_M/edit">Click Here!</a> <br><br>💬 Ask me about Ethical Hacking, Cyber Security & Bug Hunting<br><br>📫 How to reach me : kkumar04600@gmail.com<br><br>📄 Know about my experiences : <a href="https://drive.google.com/drive/folders/17hbmRAKk4GUvhQPEjaCHrtgSGTsWVNey">Click Here!</a><br><br>⚡ Fun Fact : Tell me a Fun Fact About Yourself
