@@ -1,3 +1,4 @@
+![logo](https://res.cloudinary.com/dzqzuljun/image/upload/v1695822412/Karannkx.png)
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">A Penetration Tester || Bug Hunter</h3>
 
@@ -27,6 +28,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Karannkx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
