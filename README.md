@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dzqzuljun/image/upload/v1695825800/Karannkxgf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karannkx&label=Profile%20views&color=0e75b6&style=flat" alt="karannkx" /> </p>
 # 💫 About Me:
-- 🌱 I’m Currently Learning **Bug Hunting**<br>👨‍💻 All of My Projects Are Available at :  <a href="https://docs.google.com/document/d/1B1rXl_D6y-ImZLDIEZifECy66TXnoFEq7YjIcGWPr_M/edit">Click Here!</a> <br><br>💬 Ask me about Ethical Hacking, Cyber Security & Bug Hunting<br><br>📫 How to reach me : <p><a href="mailto:kkumar04600@gmail.com">kkumar04600@gmail.com</a></p><br><br>📄 Know about my experiences : <a href="https://drive.google.com/drive/folders/17hbmRAKk4GUvhQPEjaCHrtgSGTsWVNey">Click Here!</a><br><br>⚡ Fun Fact : Tell me a Fun Fact About Yourself
+- 🌱 I’m Currently Learning **Bug Hunting**<br><br>💬 Ask me about Ethical Hacking, Cyber Security & Bug Hunting<br><br>📫 How to reach me : <p><a href="mailto:kkumar04600@gmail.com">kkumar04600@gmail.com</a></p><br><br>📄 Know about my experiences : <a href="https://drive.google.com/drive/folders/17hbmRAKk4GUvhQPEjaCHrtgSGTsWVNey">Click Here!</a><br><br>⚡ Fun Fact : Tell me a Fun Fact About Yourself
 
 
 ## 🌐 Socials:
