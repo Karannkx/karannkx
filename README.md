@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">A Penetration Tester || Bug Hunter</h3>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1848352" style='border:none;'></iframe>
+
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dzqzuljun/image/upload/v1695825800/Karannkxgf.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karannkx&label=Profile%20views&color=0e75b6&style=flat" alt="karannkx" /> </p>
 # 💫 About Me:
