@@ -1,4 +1,8 @@
 ![logo](https://res.cloudinary.com/dzqzuljun/image/upload/v1695822412/Karannkx.png)
+
+
+![TryHackMe Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Ftryhackme.com%2Fapi%2Fv2%2Fbadges%2Fpublic-profile%3FuserPublicId%3D1848352)
+
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">A Penetration Tester || Bug Hunter</h3>
 
