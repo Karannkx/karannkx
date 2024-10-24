@@ -1,8 +1,5 @@
 ![logo](https://res.cloudinary.com/dzqzuljun/image/upload/v1695822412/Karannkx.png)
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Karannkx.png" alt="Your Image Badge" />
-
 <h3 align="center">A Penetration Tester || Bug Hunter</h3>
 
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dzqzuljun/image/upload/v1695825800/Karannkxgf.gif">
